@@ -1,0 +1,46 @@
+body {
+  background-color:antiquewhite;
+}
+
+h1 {
+  font-family: sans-serif;
+  border: solid;
+  color:cadetblue
+}
+
+h2 {
+  font-family: sans-serif;
+  text-decoration: underline;
+  color:darksalmon
+}
+h3 {
+  font-family: sans-serif;
+  border: dotted;
+  color:brown
+}
+
+img {
+  float: right;
+  width: 250px;
+  margin: 4px;
+  border-color: saddlebrown;
+  border-width: 4px;
+  border-style: dotted;
+  border-radius: 15px;
+  height: auto;
+
+}
+
+p {
+  text-align: left;
+  font-family: fantasy;
+  font-size: 14px;
+  background-color: aliceblue;
+  width:320px;
+}
+
+a {
+  color: hotpink;
+  font-family: fantasy;
+  text-decoration: none
+}
